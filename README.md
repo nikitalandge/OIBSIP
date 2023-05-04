@@ -1,2 +1,5 @@
-# Oasis
-OIBSIP internship in web development 
+# TASK 1 
+Create a calculator using basic CSS, HTML, JavaScript
+
+### `CALCULATOR`
+![](img/Calc.png)
